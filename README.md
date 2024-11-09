@@ -1,4 +1,4 @@
-# K-Means-improved---ECG-of-Cardiac-Ailments-Dataset
+# CLUSTERING - K-Means-improved with a dbscan ---ECG-of-Cardiac-Ailments-Dataset
 
 ## README.md for a K-Means Clustering Project with ECG Data
 
